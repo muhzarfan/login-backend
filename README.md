@@ -2,7 +2,7 @@
 ```npm install @hapi/hapi @hapi/joi bcrypt jsonwebtoken```
 Endpoints:
 1. http://localhost:3000/login
-b. http://localhost:3000/register
+2. http://localhost:3000/register
 Raw JSON:
 ```
 {
