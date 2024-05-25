@@ -1,7 +1,7 @@
 # instal modul
 ```npm install @hapi/hapi @hapi/joi bcrypt jsonwebtoken```
 Endpoints:
-a. http://localhost:3000/login
+1. http://localhost:3000/login
 b. http://localhost:3000/register
 Raw JSON:
 ```
@@ -11,4 +11,3 @@ Raw JSON:
 }
 ```
 buat register baru isi username sama password blm masukin nama
-klo dah login ada tokennya
